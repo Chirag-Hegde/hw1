@@ -9,5 +9,3 @@ def count(n):
 
 def sqaure(n):
     return n * n
-
-print(hello('Melika') - sqaure(10))
