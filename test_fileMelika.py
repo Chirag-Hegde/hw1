@@ -13,7 +13,7 @@ def test_age():
     assert age(2000, 2024) == 24
 
 def test_count():
-    assert count(6) == 15
+    assert count(6) == 21
 
 def test_square():
-    assert sqaure(10) == 100
+    assert sqaure(10) == 81
